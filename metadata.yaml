@@ -1,0 +1,27 @@
+_repo: Old-London-Street-Cries-and-the-Cries-of-To-day-With-Heaps-of-Quaint-Cuts-Including-Hand-colo__61861
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tuer, Andrew White
+    alias: Tuer, Andrew W. (Andrew White)
+    birthdate: 1838
+    deathdate: 1900
+    gutenberg_agent_id: '51647'
+    url: http://www.gutenberg.org/2009/agents/51647
+    wikipedia: https://en.wikipedia.org/wiki/Andrew_White_Tuer
+description: ''
+gutenberg_issued: '2020-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61861'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Cries -- England -- London'
+- GITenberg
+title: "Old London Street Cries and the Cries of To-day\r\nWith Heaps of Quaint Cuts\
+  \ Including Hand-coloured Frontispiece"
+url: http://www.gutenberg.org/ebooks/61861
