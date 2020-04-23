@@ -1,5 +1,8 @@
 _repo: Old-London-Street-Cries-and-the-Cries-of-To-day-With-Heaps-of-Quaint-Cuts-Including-Hand-colo__61861
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61861-h/images/cover.jpg
 creator:
   author:
     agent_name: Tuer, Andrew White
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51647
     wikipedia: https://en.wikipedia.org/wiki/Andrew_White_Tuer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61861#Old-London-Street-Cries-and-the-Cries-of-To-day-With-Heaps-of-Quaint-Cuts-Including-Hand-colo_
 gutenberg_issued: '2020-04-18'
 gutenberg_type: Text
 identifiers:
